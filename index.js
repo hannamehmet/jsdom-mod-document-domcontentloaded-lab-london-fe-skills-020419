@@ -1,9 +1,9 @@
 /* code goes here */
 
 
-var document.querySelector("div#hidden-div").innerText
+var x = document.querySelector("div#hidden-div").innerText
 
-function updatediv#hidden-div.innerText {
+function updatex {
   innerText = "301";
 }
 
