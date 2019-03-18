@@ -1,4 +1,4 @@
 /* code goes here */
 
 
-const input = document.querySelector('')
+document.querySelector("div#hidden-div")
