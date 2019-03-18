@@ -3,7 +3,7 @@
 
 var x = document.querySelector("div#hidden-div").innerText
 
-function updateInnerText {
+function updateInnerText() {
   x = "301";
 }
 
