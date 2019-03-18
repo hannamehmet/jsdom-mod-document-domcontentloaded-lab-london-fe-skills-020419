@@ -2,9 +2,9 @@
 
 document.querySelector("div#hidden-div").innerText
 
-let x = document.querySelector("div#hidden-div").innerText
+
 
 function updateInnerText() {
-  console.log(x = "301");
+  document.getElementById("div#hidden-div").innerText = "301";
 }
 
