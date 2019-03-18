@@ -3,4 +3,4 @@
 
 document.querySelector("div#hidden-div")
 
-var x = document.getElementById("div#hidden-div").innerText;
+var x = document.querySelector("div#hidden-div").innerText;
