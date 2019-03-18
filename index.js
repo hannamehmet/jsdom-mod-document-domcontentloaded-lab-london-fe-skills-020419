@@ -1,4 +1,4 @@
 /* code goes here */
 
 
-document.querySelector("div#hidden-div")
+var x = document.getElementById("div#hidden-div").innerText;
