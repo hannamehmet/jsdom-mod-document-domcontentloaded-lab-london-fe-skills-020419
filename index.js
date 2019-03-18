@@ -3,5 +3,7 @@
 
 document.querySelector("div#hidden-div").innerText
 
-function 
+function document.querySelector("div#hidden-div").innerText {
+  
+}
 
