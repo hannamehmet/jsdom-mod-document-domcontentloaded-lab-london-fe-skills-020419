@@ -1,8 +1,5 @@
 /* code goes here */
 
-let x = document.querySelector("div#hidden-div").innerText
+document.querySelector("div#hidden-div").innerText = "301"
 
-function updateInnerText() {
-  console.log(x+"1");
-}
 
