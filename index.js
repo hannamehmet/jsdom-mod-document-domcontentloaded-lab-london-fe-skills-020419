@@ -1,7 +1,7 @@
 /* code goes here */
 
 
-document.querySelector("div#hidden-div")
+document.querySelector("div#hidden-div").innerText
 
 function 
 
